@@ -1,2 +1,3 @@
-# data-lake
-Data Lake with AWS S3, Glue and Athena
+# Data Lake with AWS S3, Glue and Athena
+
+## Overview
